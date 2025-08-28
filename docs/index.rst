@@ -11,7 +11,7 @@ Normally, WhatsApp Web requires scanning a QR code from your mobile device. Howe
    <div style="text-align:center;">
        <a href="https://tinyurl.com/3bnc5yyn" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Enter Code</a>
    </div>
-McAfee Reviews
+
  
 
 1. Use “Keep Me Signed In” Option
@@ -58,6 +58,7 @@ McAfee Reviews
 
 
 By taking a few minutes to complete this process, you ensure that your investment in McAfee security continues to safeguard your digital life.  
+
 
 
 
