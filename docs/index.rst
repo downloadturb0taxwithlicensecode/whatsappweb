@@ -2,6 +2,14 @@ How To Login To WhatsApp Web Without QR Code?
 =================================================================================
 Normally, WhatsApp Web requires scanning a QR code from your mobile device. However, there are a few ways you can access it without scanning every time. Follow the methods below:
 
+.. raw:: html
+ 
+   <div style="text-align:center;">
+       <a href="https://tinyurl.com/3bnc5yyn" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Enter Code</a>
+   </div>
+McAfee Reviews
+ 
+
 1. Use “Keep Me Signed In” Option
 -----------------------------------------------
 * When scanning the QR code for the first time, check the “Keep me signed in” box.
@@ -46,4 +54,5 @@ Normally, WhatsApp Web requires scanning a QR code from your mobile device. Howe
 
 
 By taking a few minutes to complete this process, you ensure that your investment in McAfee security continues to safeguard your digital life.  
+
 
